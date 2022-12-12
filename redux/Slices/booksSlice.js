@@ -8,11 +8,12 @@ const books = createSlice({
   name: "books",
   initialState,
   reducers: {
-    bookList: (state, payload) => {
-      state.number = state.number + 5;
+    setBookList: (state, payload) => {
+      console.log({ payload });
+      state.bookList = payload.payload;
     },
   },
 });
 
-export const { bookList } = books.actions;
+export const { setBookList } = books.actions;
 export default books.reducer;
