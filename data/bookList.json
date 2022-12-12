@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category_name": "Motivational book",
+    "url": "https://m.media-amazon.com/images/I/81uWWAHp25L._AC_UL320_.jpg",
+    "title": "Never Finished: Unshackle Your Mind and Win the War Within",
+    "author": "David Goggins",
+    "publisher": "Lioncrest Publishing",
+    "rating": 4.7,
+    "description": "This is not a self-help book. It’s a wake-up call! Can’t Hurt Me, David Goggins’ smash hit memoir, demonstrated how much untapped ability we all have but was merely an introduction to the power of the mind. In Never Finished, Goggins takes you inside his Mental Lab, where he developed the philosophy, psychology, and strategies that enabled him to learn that what he thought was his limit was only his beginning and that the quest for greatness is unending. The stories and lessons in this raw, revealing, unflinching memoir offer the reader a blueprint they can use to climb from the bottom of the barrel into a whole new stratosphere that once seemed unattainable. Whether you feel off-course in life, are looking to maximize your potential or drain your soul to break through your so-called glass ceiling, this is the only book you will ever need."
+  },
+  {
+    "id": 2,
+    "category_name": "Motivational book",
+    "url": "https://m.media-amazon.com/images/I/81gTRv2HXrL._AC_UL320_.jpg",
+    "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+    "author": "David Goggins",
+    "publisher": "Lioncrest Publishing",
+    "rating": 4.8,
+    "description": "For David Goggins, childhood was a nightmare -- poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him 'The Fittest (Real) Man in America.' In Can't Hurt Me, he shares his astonishing life story and reveals that most of us tap into only 40% of our capabilities. Goggins calls this The 40% Rule, and his story illuminates a path that anyone can follow to push past pain, demolish fear, and reach their full potential."
+  },
+  {
+    "id": 3,
+    "category_name": "Motivational book",
+    "url": "https://m.media-amazon.com/images/I/81HLr9-qKwL._AC_UL320_.jpg",
+    "title": "Discipline Is Destiny: The Power of Self-Control (The Stoic Virtues Series)",
+    "author": "Ryan Holiday",
+    "publisher": "Portfolio",
+    "rating": 4.8,
+    "description": "To master anything, one must first master themselves–one’s emotions, one’s thoughts, one’s actions. Eisenhower famously said that freedom is really the opportunity to practice self-discipline. Cicero called the virtue of temperance the polish of life. Without boundaries and restraint, we risk not only failing to meet our full potential and jeopardizing what we have achieved, but we ensure misery and shame. In a world of temptation and excess, this ancient idea is more urgent than ever. In Discipline is Destiny, Holiday draws on the stories of historical figures we can emulate as pillars of self-discipline, including Lou Gehrig, Queen Elizabeth II, boxer Floyd Patterson, Marcus Aurelius and writer Toni Morrison, as well as the cautionary tales of Napoleon, F. Scott Fitzgerald and Babe Ruth. Through these engaging examples, Holiday teaches readers the power of self-discipline and balance, and cautions against the perils of extravagance and hedonism."
+  },
+  {
+    "id": 4,
+    "category_name": "Motivational book",
+    "url": "https://m.media-amazon.com/images/I/71AHFDEpkdL._AC_UL320_.jpg",
+    "title": "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery",
+    "author": "Brianna Wiest",
+    "publisher": "Thought Catalog Books",
+    "rating": 4.7,
+    "description": "This is a book about self-sabatoge. Why we do it, when we do it, and how to stop doing it—for good. Coexisting but conflicting needs create self-sabotaging behaviors. This is why we resist efforts to change, often until they feel completely futile. But by extracting crucial insight from our most damaging habits, building emotional intelligence by better understanding our brains and bodies, releasing past experiences at a cellular level, and learning to act as our highest potential future selves, we can step out of our own way and into our potential. For centuries, the mountain has been used as a metaphor for the big challenges we face, especially ones that seem impossible to overcome. To scale our mountains, we actually have to do the deep internal work of excavating trauma, building resilience, and adjusting how we show up for the climb. In the end, it is not the mountain we master, but ourselves."
+  },
+  {
+    "id": 5,
+    "category_name": "Nonfiction Book",
+    "url": "https://m.media-amazon.com/images/I/71-zoMrJIXL._AC._SR360,460.jpg",
+    "title": "I'm Glad My Mom Died",
+    "author": "Jennette Mccurdy",
+    "publisher": "Simon & Schuster",
+    "rating": 4.7,
+    "description": "Jennette McCurdy was six years old when she had her first acting audition. Her mother’s dream was for her only daughter to become a star, and Jennette would do anything to make her mother happy. So she went along with what Mom called “calorie restriction,” eating little and weighing herself five times a day. She endured extensive at-home makeovers while Mom chided, “Your eyelashes are invisible, okay? You think Dakota Fanning doesn’t tint hers?” She was even showered by Mom until age sixteen while sharing her diaries, email, and all her income."
+  },
+  {
+    "id": 6,
+    "category_name": "Nonfiction Book",
+    "url": "https://m.media-amazon.com/images/I/71cLhcpj5AL._AC._SR360,460.jpg",
+    "title": "The Secret to Knowing Its Already Done!: How to Become Powerful, Masterful, & in Control of Your Life in a World of Distractions",
+    "author": "Alex Morton",
+    "publisher": "Cranberry Press",
+    "rating": 4.7,
+    "description": "Success is a daily decision for pursuing your dreams. When coupled with persistence it's a formula for obtaining higher and higher levels of success, tapping into your limitless potential, and maintaining the life you truly desire. The Secret to Knowing It's Already Done may not be the key to overnight riches, but it will definitely help you lay the groundwork for persistent growth and give you the blueprint and techniques for massive success. Here you'll ask yourself questions to lay the framework for the life you want. You'll gain perspective on what occupies your mind. You'll learn to discover your talents. You'll understand how to build strong and meaningful relationships through achieving and maintaining the real necessity of meaningful love, for yourself and for others. You'll get tools to exercise your mind, your will, and your emotions with intentionality and discipline. And you'll find out how to go out into the world to build the life you want. No excuses."
+  },
+  {
+    "id": 7,
+    "category_name": "Nonfiction Book",
+    "url": "https://m.media-amazon.com/images/I/71ZR6hn+GbL._AC._SR360,460.jpg",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publisher": "Harper; Reprint edition",
+    "rating": 4.7,
+    "description": "From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas."
+  },
+  {
+    "id": 8,
+    "category_name": "Business & Money",
+    "url": "https://m.media-amazon.com/images/I/61y04z8SKEL.jpg",
+    "title": "Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century",
+    "author": "Napoleon Hill",
+    "publisher": "TarcherPerigee; Revised & enlarged edition",
+    "rating": 4.7,
+    "description": "The most famous of all teachers of success spent a fortune and the better part of a lifetime of effort to produce the Law of Success philosophy that forms the basis of his books and that is so powerfully summarized in this one. In the original Think and Grow Rich, published in 1937, Hill draws on stories of Andrew Carnegie, Thomas Edison, Henry Ford, and other millionaires of his generation to illustrate his principles. In the updated version, Arthur R. Pell, Ph.D., a nationally known author, lecturer, and consultant in human resources management and an expert in applying Hill's thought, deftly interweaves anecdotes of how contemporary millionaires and billionaires, such as Bill Gates, Mary Kay Ash, Dave Thomas, and Sir John Templeton, achieved their wealth. Outmoded or arcane terminology and examples are faithfully refreshed to preclude any stumbling blocks to a new generation of readers."
+  },
+  {
+    "id": 9,
+    "category_name": "Business & Money",
+    "url": "https://m.media-amazon.com/images/I/71tHmRxhU5S._AC_UL320_.jpg",
+    "title": "Think Again: The Power of Knowing What You Don't Know",
+    "author": "Adam Grant",
+    "publisher": "Viking",
+    "rating": 4.7,
+    "description": "Intelligence is usually seen as the ability to think and learn, but in a rapidly changing world, there's another set of cognitive skills that might matter more: the ability to rethink and unlearn. In our daily lives, too many of us favor the comfort of conviction over the discomfort of doubt. We listen to opinions that make us feel good, instead of ideas that make us think hard. We see disagreement as a threat to our egos, rather than an opportunity to learn. We surround ourselves with people who agree with our conclusions, when we should be gravitating toward those who challenge our thought process. The result is that our beliefs get brittle long before our bones. We think too much like preachers defending our sacred beliefs, prosecutors proving the other side wrong, and politicians campaigning for approval--and too little like scientists searching for truth. Intelligence is no cure, and it can even be a curse: being good at thinking can make us worse at rethinking. The brighter we are, the blinder to our own limitations we can become."
+  },
+  {
+    "id": 10,
+    "category_name": "Business & Money",
+    "url": "https://m.media-amazon.com/images/I/71cnW4RKH-L._AC_UL320_.jpg",
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "publisher": " Simon & Schuster",
+    "rating": 4.7,
+    "description": "This new edition of the most influential self-help book of the last century has been updated under the care of Dale’s daughter, Donna, introducing changes that keep the book fresh for today’s readers, with priceless material restored from the original 1936 text. One of the best-known motivational guides in history, Dale Carnegie’s groundbreaking publication has sold tens of millions of copies, been translated into almost every known written language, and has helped countless people succeed. How to Win Friends and Influence People is a historic bestseller for one simple reason: Its crucial life lessons, conveyed through engaging storytelling, have shown readers how to become who they wish to be. With the newly updated version of this classic, that’s as true now as ever."
+  }
+]
