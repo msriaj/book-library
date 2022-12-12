@@ -18,3 +18,13 @@ a {
 * {
   box-sizing: border-box;
 }
+.swiper-slide img {
+  height: 300px;
+  margin-top: 40px;
+  border: 1px solid indigo;
+}
+.swiper-slide-active img {
+  height: 380px !important;
+  margin-top: 0px;
+  border: 2px solid indigo;
+}

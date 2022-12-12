@@ -1,4 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
+import Footer from "../Components/Footer/Footer";
+import Hero from "../Components/Hero/Hero";
 import Navbar from "../Components/Navbar/Navbar";
 import { PostList } from "../Components/Postlist/Postlist";
 import data from "../data/bookList.json";
@@ -12,7 +14,9 @@ export default function Home({ posts }) {
   return (
     <>
       <Navbar />
+      <Hero />
       <PostList posts={posts} />
+      <Footer />
     </>
   );
 }

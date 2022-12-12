@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Navbar = () => {
-  const [navbar, setNavbar] = useState(true);
+  const [navbar, setNavbar] = useState(false);
   return (
     <nav className="w-full mb-5 py-2 bg-white text-[#2C2C59] font-semibold purple-500 shadow">
       <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">

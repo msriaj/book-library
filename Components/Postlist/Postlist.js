@@ -9,11 +9,11 @@ import {
 export const PostList = ({ posts }) => {
   return (
     <div className=" w-full md:w-10/12 mx-auto">
-      <div className="grid grid-col-2 md:grid-cols-3 lg:grid-cols-4 gap-10 ml-0">
+      <div className="grid grid-col-1 md:grid-cols-3 lg:grid-cols-4 gap-10 ml-0">
         {posts?.map((post) => (
           <div key={post?.id} className="">
             <img
-              className="rounded-t-lg rounded-lg shadow -mb-32 h-72 w-5/6 mx-auto"
+              className="rounded-t-lg rounded-lg shadow -mb-32 md:h-72 w-5/6 mx-auto"
               src={post.url}
               alt=""
             />
