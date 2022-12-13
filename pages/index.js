@@ -1,4 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
+import Feature1 from "../Components/Feature1/Feature1";
 import Footer from "../Components/Footer/Footer";
 import Hero from "../Components/Hero/Hero";
 import Navbar from "../Components/Navbar/Navbar";
@@ -16,6 +17,7 @@ export default function Home({ posts }) {
       <Navbar />
       <Hero />
       <PostList posts={posts} />
+      <Feature1/>
       <Footer />
     </>
   );
