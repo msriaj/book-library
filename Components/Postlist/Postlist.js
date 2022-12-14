@@ -45,13 +45,13 @@ export const PostList = ({ posts }) => {
               </p> */}
               <div className="flex justify-between mt-2">
                 <Link
-                  href={`/books/${post?.id}`}
+                  href={`/book/${post?.id}`}
                   className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 "
                 >
                   View Details <FaArrowRight />
                 </Link>
                 <Link
-                  href={`/books/${post?.id}`}
+                  href={`/book/${post?.id}`}
                   className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700   "
                 >
                   <FaCartPlus />

@@ -23,6 +23,8 @@ export default function Home({ posts }) {
   );
 }
 
+
+
 export const getStaticProps = async () => {
   return {
     props: {
@@ -30,3 +32,5 @@ export const getStaticProps = async () => {
     },
   };
 };
+
+console.log(getStaticProps)
